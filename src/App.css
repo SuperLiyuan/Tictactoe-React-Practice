@@ -1,6 +1,8 @@
-@import '~antd/dist/antd.css';
 
 .App {
   text-align: center;
-  background-color:yellow;
+  background-color:red; /*works.可是有关button的好像都被覆盖掉了*/   
+  font-weight: bold;
+  color:peru
 }
+
